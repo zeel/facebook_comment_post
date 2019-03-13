@@ -1,0 +1,11 @@
+.comment {
+	margin: 8px;
+}
+
+.comment .comment-author {
+	color: #365899;
+}
+
+.nested-comment {
+	margin-left: 8px;
+}

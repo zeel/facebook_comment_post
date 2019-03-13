@@ -1,0 +1,12 @@
+#profile-info {
+	width: 600px;
+	margin: 0 auto;
+}
+
+#profile-info .input-row {
+	margin: 12px;
+}
+
+#profile-info .input-row label{
+	margin-right: 12px;
+}
