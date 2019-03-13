@@ -12,7 +12,7 @@ class App extends React.Component {
         return (
             <Router>
                 <div>
-                    <Route path="/profile" component={Profile} />
+                    <Route exact path="/" component={Profile} />
                     <Route path="/feed" component={Feed} />
                     <Route path="/post" component={CreatePost} />
                 </div>
